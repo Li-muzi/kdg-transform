@@ -1,0 +1,22 @@
+{
+    "name": "kdg/transform",
+    "description": "this package is transform time format",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liser",
+            "email": "liser@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kdg\\Transform\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kdg\\Transform\\Tests\\": "tests/"
+        }
+    }
+}
